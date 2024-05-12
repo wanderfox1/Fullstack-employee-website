@@ -1,4 +1,4 @@
-export const paths = {
+export const Paths = {
     home: '/',
     employeeAdd: '/employee/add',
     employeeEdit: '/employee/edit',
@@ -6,4 +6,4 @@ export const paths = {
     status: '/status',
     login: '/login',
     register: '/register'
-} as const;
+} as const; // ключи только для чтения

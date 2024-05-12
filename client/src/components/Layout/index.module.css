@@ -1,0 +1,9 @@
+/* css-модули для отедльного! компонента */
+
+.main {
+    width: 80%;
+    height: 100%;
+    margin-inline: auto;
+    /* display: flex;
+    flex-direction: column; */
+}
